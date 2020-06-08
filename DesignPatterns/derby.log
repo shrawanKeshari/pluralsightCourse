@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 08 20:41:52 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0172-947c-e1d7-00000f445000 
+on database directory memory:/home/shrawan/repos/pluralsightCourse/DesignPatterns/codejava/webdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5bc2b487 
+Loaded from file:/home/shrawan/Downloads/design-patterns-java-creational/02/demos/singleton/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=12.0.2+10
+user.dir=/home/shrawan/repos/pluralsightCourse/DesignPatterns
+os.name=Linux
+os.arch=amd64
+os.version=5.0.0-27-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
