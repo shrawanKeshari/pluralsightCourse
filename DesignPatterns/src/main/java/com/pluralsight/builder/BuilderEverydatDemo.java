@@ -5,7 +5,9 @@ public class BuilderEverydatDemo {
 	public static void main(String args[]) {
 
 		StringBuilder builder = new StringBuilder();
-
+		
+		String str = "";
+		
 		builder.append("This is an example ");
 
 		builder.append("of the builder pattern. ");
